@@ -6,7 +6,7 @@ Developed at **Sanjivani University (School of Engineering and Technology)**.
 
 ---
 
-## 📋 Features
+## Features
 
 - **Custom Binary Search Tree (BST)**:
   - Dynamic in-memory indexing by student roll number.
@@ -33,7 +33,7 @@ Developed at **Sanjivani University (School of Engineering and Technology)**.
 
 ---
 
-## 🔐 Default Credentials
+## Default Credentials
 
 | Role | Access Level | Default Password |
 | :--- | :--- | :--- |
@@ -43,7 +43,7 @@ Developed at **Sanjivani University (School of Engineering and Technology)**.
 
 ---
 
-## 🛠️ Build & Run
+## Build & Run
 
 ### Prerequisites
 - Any C++17 compliant compiler (`g++` or `clang++`).
@@ -60,7 +60,7 @@ g++ -std=c++17 -Wall -Wextra -O2 Project.cpp -o Project
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── Project.cpp          # Core C++17 source code (BST, RBAC, Menus, File I/O)
@@ -71,7 +71,7 @@ g++ -std=c++17 -Wall -Wextra -O2 Project.cpp -o Project
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 - **Yash Sonar** (Roll: `2126UCEM1022`)
 - **Jitendra Aher** (Roll: `2126UCEM1033`)
